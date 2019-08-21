@@ -9,15 +9,15 @@
         var items = [{
             key: 'index',
             text: '首页',
-            href:'./'
+            href:'index.html'
         },{
             key: 'order',
             text: '订单',
-            href:'./order/order.html'
+            href:'order/order.html'
         },{
             key: 'my',
             text: '我的',
-            href:'./my/my.html'
+            href:'my/my.html'
         }];
 
         var str = '';
