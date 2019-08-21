@@ -9,15 +9,15 @@
         var items = [{
             key: 'index',
             text: '首页',
-            href:'https://u373693041.github.io/555/www.gyx.com/'
+            href:'../'
         },{
             key: 'order',
             text: '订单',
-            href:'https://u373693041.github.io/555/www.gyx.com/order/order.html'
+            href:'../order/order.html'
         },{
             key: 'my',
             text: '我的',
-            href:'https://u373693041.github.io/555/www.gyx.com/my/my.html'
+            href:'../my/my.html'
         }];
 
         var str = '';
